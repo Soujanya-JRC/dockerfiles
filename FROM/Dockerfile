@@ -1,0 +1,2 @@
+# FROM <BASE-OS>:<VERSION>
+FROM almalinux:9
